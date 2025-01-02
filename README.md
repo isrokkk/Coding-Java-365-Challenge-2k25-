@@ -8,7 +8,7 @@ Tantangan ini bertujuan untuk meningkatkan keterampilan coding dengan menyelesai
 ## Jadwal
 | Hari | Tanggal      | Kegiatan                        | Status  |
 |------|--------------|---------------------------------|---------|
-| 1     | Instalasi dan Setup                    | Instal JDK dan IDE (IntelliJ IDEA/Eclipse/VS Code).                      |
+| 1     | Instalasi dan Setup                    | Instal JDK dan IDE (IntelliJ IDEA/Eclipse/VS Code).                      |✅
 | 2     | Hello World                            | Menulis program Java pertama: `System.out.println("Hello, World!");`   |
 | 3     | Variabel dan Tipe Data                 | Pelajari tipe data (int, double, char, boolean, dll).                    |
 | 4     | Operasi Dasar                          | Operasi aritmatika dan logika.                                           |
