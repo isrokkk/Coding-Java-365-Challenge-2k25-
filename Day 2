@@ -1,1 +1,48 @@
 
+import java.util.Scanner;
+
+public class Day1 {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        {
+
+            String name = "Isrok";
+            int umur = 19;
+            String hobi = "Gaming";
+
+            System.out.println("Selamat belajar Java!");
+            System.out.println("=====================");
+            System.out.println("Nama: " + name);
+            System.out.println("Umur: " + umur);
+            System.out.println("Hobi: " + hobi);
+            System.out.println("=====================");
+        }
+        {
+            int a = 5;
+            int b = 6;
+
+            int c = a * b;
+            System.out.println("Hasil perkalian dari " + a + " dan " + b + " adalah: " + c);
+            System.out.println("=====================");
+        }
+        {
+            System.out.print("masukkan sisinya berapa? ");
+            int sisi = input.nextInt();
+
+            int luasPersegi = sisi * sisi;
+            System.out.println("Luas Persegi dari " + sisi + " adalah: " + luasPersegi);
+            System.out.println("=====================");
+        }
+        {
+            System.out.print("masukkan jari-jari berapa? ");
+            double radius = input.nextDouble();
+
+            double luasLingkaran = 3.14 * radius * radius;
+            double kelilingLingkaran = 2 * 3.14 * radius;
+            System.out.println("Luas lingkaran dari " + radius + " adalah: " + luasLingkaran);
+            System.out.println("Keliling Lingkaran dari " + radius + " adalah: " + kelilingLingkaran);
+        }
+
+    }
+}
