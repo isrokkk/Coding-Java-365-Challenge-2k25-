@@ -10,7 +10,7 @@ Tantangan ini bertujuan untuk meningkatkan keterampilan coding dengan menyelesai
 |------|--------------|---------------------------------|---------|
 | 1     | Instalasi dan Setup                    | Instal JDK dan IDE (IntelliJ IDEA/Eclipse/VS Code).                      |✅
 | 2     | Hello World                            | Menulis program Java pertama: `System.out.println("Hello, World!");`   |✅
-| 3     | Variabel dan Tipe Data                 | Pelajari tipe data (int, double, char, boolean, dll).                    |
+| 3     | Variabel dan Tipe Data                 | Pelajari tipe data (int, double, char, boolean, dll).                    |✅
 | 4     | Operasi Dasar                          | Operasi aritmatika dan logika.                                           |
 | 5     | Input Pengguna                         | Gunakan `Scanner` untuk membaca input dari pengguna.                     |
 | 6-7   | Kontrol Alur: If-Else, Switch          | Latihan membuat program dengan percabangan.                             |
